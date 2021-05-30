@@ -1,15 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**DevApurba/DevApurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am DevApurba**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... [Instagram](https://instagram.com/_yourfriend1111)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... **Discord Bots**
+- 🌱 I’m currently learning ... _Java_ & _Flutter_
+- 💬 Ask me about ... _Flutter_ _Java_ _Kotlin_
+- 📫 How to reach me: ... [Instagram](https://instagram.com/_yourfriend1111).
+- ⚡ Fun fact: ... I LOVE reading **BOOKS**

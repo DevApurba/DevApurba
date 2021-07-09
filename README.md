@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am DevApurba**
+## I am DevApurba
 
 - 🔭 I’m currently working on ... **Discord Bots**
 - 🌱 I’m currently learning ... _Java_ & _Flutter_

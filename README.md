@@ -1,10 +1,23 @@
-# Hi there 👋
 
-## I am DevApurba
+# Hi, I'm Apurba! 👋
 
-- 🔭 I’m currently working on ... **Discord Bots**
-- 🌱 I’m currently learning ... _Java_ & _Flutter_
-- 💬 Ask me about ... _Flutter_, _Java_, _Kotlin_
-- 📫 How to reach me: ... [Instagram](https://instagram.com/_yourfriend1111)
-- ⚡ Fun fact: ... I am a **POTTERHEAD**
-- 😇 Hobbies:  ... **ASTROPHOTOGRAPHY**, **READING BOOKS**
+  
+## 🚀 About Me
+I'm a Student
+
+* I want to become an **Android Developer**
+
+* Favourite **Programming** languages -> Dart, Java, Kotlin, Python
+
+* I'm available on **Discord**, [Instagram](https://instagram.com/_yourfriend1111)
+
+
+
+
+  
+### Followers
+
+* [![](https://img.shields.io/github/followers/DevApurba?style=plastic)](https://github.com/DevApurba)
+
+### Discord Server
+* [![](https://img.shields.io/discord/810199802801291294)](https://discord.gg/6qTF8uj5)

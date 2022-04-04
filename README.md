@@ -18,6 +18,3 @@ I'm a Student
 ### Followers
 
 * [![](https://img.shields.io/github/followers/DevApurba?style=plastic)](https://github.com/DevApurba)
-
-### Discord Server
-* [![](https://img.shields.io/discord/810199802801291294)](https://discord.gg/xKZVEqhpHs)
